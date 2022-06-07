@@ -1,3 +1,5 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/mclerg00/ros_simulation_lab.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mclerg00/ros_simulation_lab/alerts/)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/mclerg00/ros_simulation_lab.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/mclerg00/ros_simulation_lab/alerts/)
 # ROS Simulation Lab on Azure Pipelines
 
 ## Overview
